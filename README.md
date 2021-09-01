@@ -1,4 +1,4 @@
-### Eae!! Eu sou o Ritzy 😎
+### Eae!! Eu sou o Thiago Lopes 😎
 
 <!--
 **R1tzy/R1tzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
