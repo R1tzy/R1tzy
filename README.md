@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" alt="Ritzy-PHP" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg">
   <img align="center" height="30" width="40" alt="Ritzy-HTML" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="Ritzy-CSS" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">  
+  <img align="center" height="30" width="40" alt="Ritzy-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
   <br>
 </div>
 
