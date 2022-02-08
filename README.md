@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  ![Snake animation](https://github.com/r1tzy/r1tzy/blob/output/github-contribution-grid-snake.svg)  
+  (https://github.com/r1tzy/r1tzy/blob/output/github-contribution-grid-snake.svg)  
 </div
 
