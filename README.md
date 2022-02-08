@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <a href="mailto:thiagolopesalmeida1230@gmail.com"> <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 </div>
 
-![](https://raw.githubusercontent.com/r1tzy/r1tzy/9df7405f7bd71391dcbcaf37bcd641ff26306a21/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/r1tzy/r1tzy/blob/output/github-contribution-grid-snake.svg)
 
 
