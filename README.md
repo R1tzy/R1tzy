@@ -37,13 +37,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.linkedin.com/in/thiago-lopes-de-almeida-596a761b9" target="blank"> <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a href="mailto:thiagolopesalmeida1230@gmail.com"> <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-    ![Snake animation](https://github.com/r1tzy/r1tzy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/r1tzy/r1tzy/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
- 
- 
-
-
-
 
