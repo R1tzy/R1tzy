@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  https://raw.githubusercontent.com/R1tzy/R1tzy/9df7405f7bd71391dcbcaf37bcd641ff26306a21/github-contribution-grid-snake.svg
+  (https://raw.githubusercontent.com/R1tzy/R1tzy/9df7405f7bd71391dcbcaf37bcd641ff26306a21/github-contribution-grid-snake.svg)
 </div
 
