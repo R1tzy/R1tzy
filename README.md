@@ -39,3 +39,11 @@ Here are some ideas to get you started:
   <a href="mailto:thiagolopesalmeida1230@gmail.com"> <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 </div>
 
+<div>
+ 
+  ![Snake animation](https://github.com/R1tzy/R1tzy/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+
+
