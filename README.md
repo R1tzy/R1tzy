@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=r1tzy&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1tzy&theme=vue-dark">
-</div>
+</div> -->
 
   
 <div style="display: inline_block"></br>
