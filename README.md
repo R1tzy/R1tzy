@@ -21,19 +21,19 @@ Here are some ideas to get you started:
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1tzy&theme=vue-dark">
 </div> -->
 
-  
-<div style="display: inline_block"></br>
-  <img align="center" height="30" width="40" alt="Ritzy-Python" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="Ritzy-C#" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" alt="Ritzy-PHP" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" alt="Ritzy-HTML" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="Ritzy-CSS" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg">  
-  <img align="center" height="30" width="40" alt="Ritzy-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
+<div>
+  <br>
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=python" alt="Python">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=cs" alt="C#">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=php" alt="PHP">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML5">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS3">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
   <br>
 </div>
 
-  ##
- </br>
+---
+
 <div>
   <a href="https://www.linkedin.com/in/thiago-lopes-de-almeida-596a761b9" target="blank"> <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a href="mailto:thiagolopesalmeida1230@gmail.com"> <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
